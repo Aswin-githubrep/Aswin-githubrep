@@ -6,8 +6,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
-<!---
-# 💫 About Me:
+💫 About Me:
 👋    Hi, I’m Aswin V.<br>👀 I’m interested in Machine Learning and Data Science.<br>🌱 I’m currently learning Data Analysis, Machine Learning, Computer Vision, Natural Language Processing.<br>💞️ I’m looking to collaborate on real world and Interesting Projects.<br>📫 How to reach me ... mail : aswin.v1604@gmail.com<br>😄 Pronouns: He/Him
 
 
@@ -24,5 +23,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Aswin-githubrep&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
---->
